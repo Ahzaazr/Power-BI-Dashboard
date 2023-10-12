@@ -1,2 +1,2 @@
-# Power-BI-Dashboard
- ​Lihat detail 1.801 / 5.000 Hasil terjemahan Hasil terjemahan Dashboard of cellphone sales data from various merchants in the marketplace. Show patterns and insights in one easy-to-understand screen. Dashboard created using Microsoft Power BI.
+# About-The-Dashboard
+​This is a dashboard about cellphone sales data from various merchants in the market place which was created using Microsoft Power BI. Data obtained from kaggle.com. In this dashboard we can see the trend of cellphone units sold and revenue. We can also see the number of cellphone units sold based on brand and type, apart from that there is a chart of the relationship between cellphone ratings and the number of units sold. The dashboard can be viewed based on merchant city.
